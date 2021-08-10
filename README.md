@@ -1,2 +1,1 @@
-# GitHub-Test
-This is a test of GitHub
+# GitHub Test
